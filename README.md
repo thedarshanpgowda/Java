@@ -34,22 +34,6 @@ This repository contains various problems and solutions for learning Data Struct
 4. Implement a queue using two stacks
 5. Check for balanced parentheses in an expression
 
-## Trees
-
-1. Inorder, Preorder, Postorder traversal of a binary tree
-2. Find the height of a binary tree
-3. Check if a binary tree is balanced
-4. Find the lowest common ancestor (LCA) of two nodes in a binary tree
-5. Level order traversal of a binary tree
-
-## Graphs
-
-1. Implement Depth First Search (DFS)
-2. Implement Breadth First Search (BFS)
-3. Detect a cycle in an undirected graph
-4. Find the shortest path in an unweighted graph (using BFS)
-5. Check if a graph is bipartite
-
 ## Sorting and Searching
 
 1. Implement Bubble Sort
@@ -67,6 +51,23 @@ This repository contains various problems and solutions for learning Data Struct
 3. Tower of Hanoi problem
 4. Sum of digits of a number
 5. Generate all subsets of a set
+
+## Trees
+
+1. Inorder, Preorder, Postorder traversal of a binary tree
+2. Find the height of a binary tree
+3. Check if a binary tree is balanced
+4. Find the lowest common ancestor (LCA) of two nodes in a binary tree
+5. Level order traversal of a binary tree
+
+## Graphs
+
+1. Implement Depth First Search (DFS)
+2. Implement Breadth First Search (BFS)
+3. Detect a cycle in an undirected graph
+4. Find the shortest path in an unweighted graph (using BFS)
+5. Check if a graph is bipartite
+
 
 ## Dynamic Programming
 
