@@ -35,7 +35,7 @@ class FindMaxMinElements{
     }
 }
 
-class MainClass{
+class DivideAndConquer{
     public static void main(String args[]){
         int array[] = {100, 200, 37, 1, 0, 873};
         FindMaxMinElements newInstance = new FindMaxMinElements();

@@ -12,7 +12,7 @@ class Iterate{
     }
 }
 
-class MainClass{
+class IterationApproach{
     public static void main(String[] args){
         Iterate newInstance = new Iterate();
         Scanner scanner = new Scanner(System.in);
