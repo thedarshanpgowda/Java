@@ -20,7 +20,7 @@ class RecurringClass {
     }
 }
 
-public class MainClass {
+public class UsingRecursion {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the number of elements in array:");

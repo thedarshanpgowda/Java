@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class BinarySearchExample {
+public class UsingWhileLoop {
     
     // Binary Search Method
     public static int binarySearch(int[] array, int target) {
