@@ -8,19 +8,6 @@ This Java program finds the k-th smallest and k-th largest elements in an array 
 2. **`InnerClass` Class**: Provides the `findKthElement` method that sorts the array and retrieves the k-th smallest and largest elements.
 3. **`MainClass` Class**: Manages user input and displays the results.
 
-## Usage
-
-1. **Compile**:
-   ```bash
-   javac array/Kth_MaxMinElement/UsingSorting/MainClass.java
-   ```
-
-2. **Run**:
-   ```bash
-   java array.Kth_MaxMinElement.UsingSorting.MainClass
-   ```
-
-3. **Input**: Enter the k-th element position (1-based index) when prompted.
 
 **Example**:
 ```
